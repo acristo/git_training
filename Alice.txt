@@ -1,1 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+
+just a new line to Alice file
+
+adding more lines to Alice file
+taking addvantage of cat and >> operator
