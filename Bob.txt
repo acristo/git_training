@@ -1,1 +1,3 @@
-just an empty file
+adding something to Bob file
+try something easy with cat
+
