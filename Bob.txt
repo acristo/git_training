@@ -1,1 +1,6 @@
 New text in Bob. And even more text
+
+adding something to Bob file
+try something easy with cat
+
+new changes to Bob before commit

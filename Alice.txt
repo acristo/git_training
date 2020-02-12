@@ -7,3 +7,12 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Added some changes.
 
 More changes to Alice.
+
+just a new line to Alice file
+
+adding more lines to Alice file
+taking addvantage of cat and >> operator
+
+this make changes like if I were another user...
+
+changes to Alice before commiting changes...
